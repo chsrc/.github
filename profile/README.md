@@ -2,12 +2,14 @@
 
 Welcome to the GitHub home of the **SKACH** consortium.
 
-This organization collects the code, pipelines, notebooks and documentation produced by SKACH partners, so project outputs stay findable, citable and reportable beyond the life of any individual account.
+This Github organization collects the code, pipelines, notebooks and documentation produced by SKACH partners, so project outputs stay findable, citable and reportable beyond the life of any individual account.
+
+[Link to SKACH website](https://skach.org/)
 
 ## Finding things
 
 - **By work package:** repository names follow the suggested `wpN-` prefix, and topics such as `wp2` let you filter the list.
-- **Outputs kept outside this organization** are listed in [`project-outputs`](https://github.com/chsrc/project-outputs).
+- **Outputs kept outside this organization** are listed in [`PROJECT_OUTPUTS.md`](https://github.com/chsrc/.github/blob/main/PROJECT_OUTPUTS.md).
 - **Citing our work:** please cite the Zenodo DOI given in each repository's README or take a look at the respective `CITATION.cff`.
 
 ## Contributing
@@ -18,4 +20,4 @@ Questions: Rohini Joshi, rohini.joshi@fhnw.ch
 
 ## Funding
 
-SKACH and CHSRC work is funded by the State Secretariat for Education, Research and Innovation (SERI) under the SKACH consortium.
+SKACH and CHSRC work is funded by the State Secretariat for Education, Research and Innovation (SERI) under the SKACH consortium. SKACH is responsible for managing the Swiss contribution to the SKAO.
