@@ -1,0 +1,22 @@
+# Copy into your repository root, keeping the name CITATION.cff.
+# Validate at https://citation-file-format.github.io/cff-initializer-javascript/
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Repository name"
+abstract: "One or two sentences on what this software does."
+type: software
+authors:
+  - family-names: "Lastname"
+    given-names: "Firstname"
+    affiliation: "Institution"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/chsrc/repository-name"
+license: MIT
+version: "0.1.0"
+date-released: "2026-01-01"
+# Add after the first Zenodo release:
+# doi: "10.5281/zenodo.XXXXXXX"
+keywords:
+  - SKACH
+  - SERI
+  - topic
