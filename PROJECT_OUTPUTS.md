@@ -6,7 +6,7 @@ Most SKACH repositories live in the [SKACH GitHub organization](https://github.c
 
 There are three ways to add a repository:
 
-- **Pull request:** click the pencil icon on this file, add a row to the table and click *Propose changes*. GitHub opens a pull request for you, and an org owner will review it.
+- **Preferred: Pull request:** click the pencil icon on this file, add a row to the table and click *Propose changes*. GitHub opens a pull request for you, and an org owner will review it.
 - **Issue:** [open an issue](https://github.com/ska-ch/.github/issues/new) with the repository link, maintainer, partner institution and a one-line purpose, and an org owner will add it.
 - **Contact an org owner:** send the same details to one of the [SKACH org owners](https://github.com/orgs/ska-ch/people?query=role%3Aowner).
 

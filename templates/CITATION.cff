@@ -10,7 +10,7 @@ authors:
     given-names: "Firstname"
     affiliation: "Institution"
     orcid: "https://orcid.org/0000-0000-0000-0000"
-repository-code: "https://github.com/chsrc/repository-name"
+repository-code: "https://github.com/ska-ch/repository-name"
 license: MIT
 version: "0.1.0"
 date-released: "2026-01-01"

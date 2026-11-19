@@ -2,7 +2,7 @@
 
 ## Purpose and scope
 
-The intention is for all code, data pipelines, notebooks and documentation produced for the project live in, are registered with, or are findable from the consortium GitHub organization **chsrc**. This keeps project outputs findable after people move on, lets us report them to funders, and makes them citable.
+The intention is for all code, data pipelines, notebooks and documentation produced for the project live in, are registered with, or are findable from the consortium GitHub organization **ska-ch**. This keeps project outputs findable after people move on, lets us report them to funders, and makes them citable.
 
 The policy covers any repository created or substantially developed with project funding, by any partner, from the project start date onwards.
 
@@ -28,7 +28,7 @@ The sections from here on are recommended practice, not requirements. They make 
 | `LICENSE` | An open licence, default **\[MIT / Apache-2.0\]** for code and **CC-BY-4.0** for documents and data, unless a partner agreement says otherwise. |
 | `CITATION.cff` | Authors, title, version and DOI once one exists, so others can cite the work. |
 
-Templates for all three are available in the chsrc `.github` repo.
+Templates for all three are available in the ska-ch `.github` repo.
 
 ## Access and roles
 
@@ -62,11 +62,11 @@ Using AI coding tools (e.g. GitHub Copilot, ChatGPT, Claude) is fine. The person
 - Personal data, or data covered by a data-sharing agreement. Linking to where it is stored is safer.
 - Large raw data files. Zenodo or an institutional repository suits these better; link to them from the repo.
 
-If something sensitive is committed by mistake, please tell the chsrc org admins quickly. Deleting the file is not enough, because it stays in the history.
+If something sensitive is committed by mistake, please tell the SKACH org admins quickly. Deleting the file is not enough, because it stays in the history.
 
 ## Suggested checklist for members
 
-- [ ] Accept the invitation to join chsrc
+- [ ] Accept the invitation to join ska-ch
 - [ ] Transfer your project repositories into the org, or register them in [`PROJECT_OUTPUTS.md`](PROJECT_OUTPUTS.md)
 - [ ] Consider a clear name (e.g. with a `wpN-` prefix) and add a description
 - [ ] Add a README funding line, LICENSE and CITATION.cff

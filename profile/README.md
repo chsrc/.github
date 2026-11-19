@@ -9,12 +9,12 @@ This Github organization collects the code, pipelines, notebooks and documentati
 ## Finding things
 
 - **By work package:** repository names follow the suggested `wpN-` prefix, and topics such as `wp2` let you filter the list.
-- **Outputs kept outside this organization** are listed in [`PROJECT_OUTPUTS.md`](https://github.com/chsrc/.github/blob/main/PROJECT_OUTPUTS.md).
+- **Outputs kept outside this organization** are listed in [`PROJECT_OUTPUTS.md`](https://github.com/ska-ch/.github/blob/main/PROJECT_OUTPUTS.md).
 - **Citing our work:** please cite the Zenodo DOI given in each repository's README or take a look at the respective `CITATION.cff`.
 
 ## Contributing
 
-Consortium members: see the [SKACH Repository Policy](https://github.com/chsrc/.github/blob/main/REPOSITORY_POLICY.md) and the [templates](https://github.com/chsrc/.github/tree/main/templates) for README, citation and licence files.
+Consortium members: see the [SKACH Repository Policy](https://github.com/ska-ch/.github/blob/main/REPOSITORY_POLICY.md) and the [templates](https://github.com/ska-ch/.github/tree/main/templates) for README, citation and licence files.
 
 Questions: Rohini Joshi, rohini.joshi@fhnw.ch
 
